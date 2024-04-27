@@ -71,8 +71,8 @@ Begin<br>
 End<br>
 ## PROGRAM :
 ```
-DEVELOPED BY : AISHWARYA S
-REGISTER NUMBER: 212222100003
+DEVELOPED BY : A K MOHAN RAJ
+REGISTER NUMBER: 212221230064
 ```
 ```PY
 from itertools import permutations
